@@ -74,5 +74,5 @@ Suppose we have a text file named "a.txt" and we want to check whether it is utf
          print("Some error occurred decoding file %s: %s" % (filename, e))
 
 ## References:
-https://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/
+https://www.pythoncentral.io/python-unicode-encode-decode-strings-python-2x/  
 https://nedbatchelder.com/text/unipain.html
