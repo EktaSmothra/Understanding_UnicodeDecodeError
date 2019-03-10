@@ -8,6 +8,8 @@ Python 2.x provides a data type called a Unicode string for working with Unicode
 ## Note:
 When executing a Python script that contains Unicode characters, you must put the following line at the top of the script, to tell Python that the code is UTF-8/Unicode formatted.
 
+    # -*- coding: utf-8 -*-
+
 ## Overview: Unicode
 To understand encoding and decoding, let's take an example:
     
